@@ -1,5 +1,5 @@
 # NJL-and-QFT-at-finite-temperature
-Reviewing the chiral symmetry breaking at finite density and temperature in the Nambu-Jona-Lasinio model. The Lagrangian which I consider at this review has a SU(2)×SU(2) symmetry.
+Reviewing the chiral symmetry breaking at finite density and temperature in the Nambu-Jona-Lasinio model. The lagrangian which I use in this review has a SU(2)×SU(2) symmetry.
 
 ## NLJ Lagrangian
 First, we review the Nambu-Jona-Lasinio model[1]:
