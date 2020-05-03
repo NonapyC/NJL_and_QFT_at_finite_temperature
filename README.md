@@ -29,6 +29,11 @@ To find the quark physical mass, we calculate the self-energy:
 
 <img width="577" alt="スクリーンショット 2020-05-04 1 10 58" src="https://user-images.githubusercontent.com/54795218/80919378-9ad49f00-8da4-11ea-9fe0-6f6fbcdf0854.png">
 
-
+### QCD diagram
+Figure shows the phase diagram of QCD at each given density and temperature.
 
 ![NJL](https://user-images.githubusercontent.com/54795218/80917760-167e1e00-8d9c-11ea-94c3-155ea3b19e56.png)
+
+## Refarence
+[1]Y.Nambu and G.Jona-Lasinio. Phys. Rev. 122.345 (1961).
+[2]M.Asakawa and K.Yazaki, Nuci, Phys. A 504, 668 (1989).
