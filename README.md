@@ -18,4 +18,7 @@ The equation by which we seek the physical mass m* of this lagrangian is called 
 We extend NJL lagrangian to SU(2)×SU(2) symmetric theory. In this review, we take the number of flabours is 2, and number of coulors is 3. 
 
 
+
+![texclip20200504010338](https://user-images.githubusercontent.com/54795218/80919091-19c8d800-8da3-11ea-982a-794e7ba30929.png)
+
 ![NJL](https://user-images.githubusercontent.com/54795218/80917760-167e1e00-8d9c-11ea-94c3-155ea3b19e56.png)
