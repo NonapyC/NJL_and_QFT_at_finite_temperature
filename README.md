@@ -25,4 +25,10 @@ where psi is quark:
 
 and tau is 2×2 pauri matrix on flavaor space. (u,d) indicates flavor, (R,G,B) indicates color and (0,1,2,3) indicates spinor.
 
+To find the quark physical mass, we calculate the self-energy:
+
+<img width="577" alt="スクリーンショット 2020-05-04 1 10 58" src="https://user-images.githubusercontent.com/54795218/80919378-9ad49f00-8da4-11ea-9fe0-6f6fbcdf0854.png">
+
+
+
 ![NJL](https://user-images.githubusercontent.com/54795218/80917760-167e1e00-8d9c-11ea-94c3-155ea3b19e56.png)
