@@ -8,7 +8,7 @@ First, we review the Nambu-Jona-Lasinio model:
 
 Where G is the coupling constant and phi is spinor. This lagrangian has U(1) symmetry. In this review I caluculate the phisical mass m*. According to the QFT, the poles of the two-point correlation function correspond to the physical mass:
 
-
+<img width="877" alt="スクリーンショット 2020-05-04 0 38 08" src="https://user-images.githubusercontent.com/54795218/80918403-ae313b80-8d9f-11ea-80fc-31e212f1d4ab.png">
 
 So, we can find the physical mass by caluculating the self-energy. 
 
