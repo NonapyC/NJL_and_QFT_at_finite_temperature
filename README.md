@@ -6,10 +6,12 @@ First, we review the Nambu-Jona-Lasinio model:
 
 ![texclip20200504002813](https://user-images.githubusercontent.com/54795218/80918115-31519200-8d9e-11ea-895b-24f9d65d269e.png)
 
-Where G is the coupling constant and phi is spinor. This lagrangian has U(1) symmetry. In this review I caluculate the phisical mass m*. According to the QFT, the poles of the two-point correlation function correspond to the physical mass:
+Where G is the coupling constant and phi is spinor. This lagrangian has U(1) symmetry. In this review, I caluculate the phisical mass m*. According to the QFT, the poles of the two-point correlation function correspond to the physical mass:
 
 <img width="435" alt="スクリーンショット 2020-05-04 0 40 22" src="https://user-images.githubusercontent.com/54795218/80918475-24ce3900-8da0-11ea-9b91-3a24bc55738a.png">
 
 So, we can find the physical mass by caluculating the self-energy. 
+
+The equation by which we seek the physical mass m* of this lagrangian is called gap equation. If the coupling constant exceeds the threshold, vacuum transition occurs and the symmetry is broken. Then, 
 
 ![NJL](https://user-images.githubusercontent.com/54795218/80917760-167e1e00-8d9c-11ea-94c3-155ea3b19e56.png)
