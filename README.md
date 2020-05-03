@@ -12,6 +12,10 @@ Where G is the coupling constant and phi is spinor. This lagrangian has U(1) sym
 
 So, we can find the physical mass by caluculating the self-energy. 
 
-The equation by which we seek the physical mass m* of this lagrangian is called gap equation. If the coupling constant exceeds the threshold, vacuum transition occurs and the symmetry is broken. Then, 
+The equation by which we seek the physical mass m* of this lagrangian is called gap equation. If the coupling constant exceeds the threshold, vacuum transition occurs and the symmetry is broken.
+
+## At finite temperature and density
+We extend NJL lagrangian to SU(2)×SU(2) symmetric theory. In this review, we take the number of flabours is 2, and number of coulors is 3. 
+
 
 ![NJL](https://user-images.githubusercontent.com/54795218/80917760-167e1e00-8d9c-11ea-94c3-155ea3b19e56.png)
